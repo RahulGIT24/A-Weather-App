@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand{
+    color: white;
+}
+
+main{
+    margin: 50px;
+}
+.container h1{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.col{
+    border: 1px solid rgb(0, 4, 254);
+    border-radius: 25px;
+}
